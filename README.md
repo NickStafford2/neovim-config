@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Tutorial:https://www.youtube.com/watch?v=m8C0Cq9Uv9o
+
 A starting point for Neovim that is:
 
 * Small
